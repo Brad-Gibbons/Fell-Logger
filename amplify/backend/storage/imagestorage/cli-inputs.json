@@ -1,0 +1,14 @@
+{
+  "resourceName": "imagestorage",
+  "policyUUID": "63c90234",
+  "bucketName": "fellloggerf6434ed30c9f4ef19aba73de00047a15",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
